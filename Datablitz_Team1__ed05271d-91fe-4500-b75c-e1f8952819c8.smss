@@ -1,0 +1,12 @@
+Base Properties
+ENGINE	ed05271d-91fe-4500-b75c-e1f8952819c8
+ENGINE_ALIAS	Datablitz_Team1
+ENGINE_TYPE	prerna.engine.impl.rdbms.RDBMSNativeEngine
+RDBMS_INSIGHTS	db/@ENGINE@/insights_database
+OWL	db/@ENGINE@/Datablitz_Team1_OWL.OWL
+PIXEL_UPDATE	true
+RDBMS_TYPE	MARIA_DB
+DRIVER	org.mariadb.jdbc.Driver
+USERNAME	s3m0ss
+PASSWORD	S3m0ss123123
+CONNECTION_URL	jdbc:mariadb://semoss-rds.cau72w0mjnig.us-east-1.rds.amazonaws.com:3306/semossdb
